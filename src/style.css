@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url("https://media.revistagq.com/photos/5d1348c16994dc0dc677750c/master/pass/doraemon.jpg");
+}
+
+h1 {
+  color: red;
+}
